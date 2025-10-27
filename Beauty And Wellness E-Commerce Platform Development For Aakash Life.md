@@ -9,7 +9,7 @@
 # Beauty And Wellness E-Commerce Platform Development For Aakash Life
 ## Overview
 Aakash Life is India's first pharma-led beauty and cosmetics retail chain. The company seamlessly integrates physical stores with its digital platforms to deliver an exceptional shopping experience. With a dedicated focus on skin-friendly beauty solutions, Aakash Life offers a meticulously curated collection featuring over 100 prestigious brands. Their product range includes skincare, wellness, and nutrition categories, catering to discerning customers seeking high-quality products.
-## Challenges
+## Business Problem
 Aakash Life envisioned a premium beauty and wellness ecosystem that bridged physical retail with digital experiences. The brand sought to craft a cohesive omnichannel journey where customers could seamlessly transition between online platforms and their physical retail stores. Central to this strategy was implementing innovative shopping models like Buy Online, Pick Up In-Store (BOPIS), and Buy Online, Return In-Store (BORIS). This integrated approach aimed to elevate customer convenience while maintaining the personalized service and high-touch experience essential to beauty and wellness retail. To realize their vision, Akaash Life conducted a thorough evaluation of potential technology partners. Penaxis emerged as the clear choice, distinguished by its extensive track record in retail digital transformation, particularly in developing advanced e-commerce platforms and seamless omnichannel experiences. 
 Penaxis was required to: 
 
@@ -26,7 +26,7 @@ Penaxis was required to:
 **6.** Create robust admin tools for managing product listings, promotions, and customer interactions, enabling easy updates to product catalogs, pricing, and marketing campaigns.
 
 **7.** Utilize AI algorithms to analyze purchase patterns and deliver personalized product recommendations based on customer segments and shopping history.
-## Solution
+## Our Solution
 Team Penaxis began the project by working closely with Aakash Life to understand their vision for expanding into the digital marketplace. We gained valuable insights into their business goals, target audience and key features required for the e-commerce platform. 
 To build a seamless shopping experience, we used Next.js for a fast and SEO-friendly web platform and React Native for a smooth mobile experience. The backend, powered by Node.js, ensured high performance and easy integration with third-party services. We implemented an Electron-based POS system that coordinated online and offline transactions in real-time. This allowed for cross-channel features such as in-store pickups and unified customer loyalty tracking. 
 For data-driven decision-making, we integrated Power BI dashboards in order to provide valuable insights into sales performance, customer trends and inventory movement. Additionally, we made sure that industry-standard security protocols were in place including end-to-end encryption, PCI-DSS-compliant payment gateways as well as multiple secure payment integrations.
