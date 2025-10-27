@@ -9,9 +9,9 @@
 # Mental Wellness Website Case Study
 ## Overview
 Wellness Website is an online mental healthcare hub for individuals, teams, and providers. We drive progress personally and professionally. From mental healthcare to wellness activities and enhanced performance, accelerate change with assessable positive outcomes.
-## Challenges
+## Business Problem
 The client is seeking to develop an online mental healthcare hub called Mental Wellness Website. The platform aims to cater to individuals, teams, and providers, offering a range of services to drive personal and professional progress. The client wants Mental Wellness Website to be a comprehensive platform that addresses mental healthcare, wellness activities, and enhanced performance. They emphasize the importance of delivering measurable positive outcomes to users, ensuring that the platform accelerates positive change.
-## Solution
+## Our Solution
 To build the Mental Wellness Website online mental healthcare hub, the following steps can be taken:
 
 ### 1. Requirement Gathering
