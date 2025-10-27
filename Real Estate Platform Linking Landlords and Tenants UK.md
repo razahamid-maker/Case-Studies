@@ -9,11 +9,11 @@
 # Real Estate Platform Linking Landlords and Tenants UK
 ## Overview
 Over the past 20 years, Ringley Group has steadily expanded to provide a comprehensive range of property solutions.  The group consists of six different businesses – law, survey, building engineering, finance, build-to-rent and property management. It offers a comprehensive range of  property solutions online in various facets including surveys, valuations, legal services, property/facilities management and sales and lettings. Their managed portfolio covers 300 blocks in England, which has over 10,000 properties. 
-## Challenges
+## Business Problem
 In a competitive build-to-rent market, the key to success is securing long-term tenancies to avoid voids whilst controlling costs to maximize net return. Hence, Ringley Group planned to leverage technology in order to expand their portfolio, connect more tenants with property owners as well as streamline communication and transactions between all the stakeholders. After evaluating numerous software solutions providers, Ringley Group zeroed in on Penaxis to develop a web and mobile application named Planet Rent, that could:
 - Automate the entire process of lettings and provide an ecosystem that could ensure centralization of data, adhere to compliance, and provide drilled down reports to property owners, agents as well as tenants.
 - Provide a unified dashboard for tracking deals, repair requests & status, transactions, evacuation period etc. to all stakeholders.
-## Solution
+## Our Solution
 Penaxis developed hybrid apps for Android and iOS platforms along with a web portal that allows landlords to publish properties to Planet Rent portal, set up their letting agents to use marketing assets (photos, floor plans, EPCs etc.), make offers, contracts, while managing e-contracts and risks all in one place. It also allows tenants to find the most suitable properties and contact or negotiate with the agents online. In order to keep everything organized at one place, following modules for the landlord login were developed.
 ### 1. Transparent and quality controlled experience for landlords
 A compliance dashboard was designed that helps landlords keep critical property, tenancy and marketing documentation up to date and also helps them adhere to compliance such as EPCs, Gas safety, HMO Registrations, PAT testing etc. It alerts the landlords/agents, if anything is missing or expiring soon. It also helps landlords to automate the rent collection process and minimize arrears. Landlords can collect rent from tenants, which gets auto-debited from their account every month.
