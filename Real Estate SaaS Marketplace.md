@@ -14,7 +14,7 @@ Penaxis is a technology company providing bespoke software development and innov
 - The platform must offer features such as advanced search filters, interactive maps, virtual tours, and real-time notifications that enhance the user experience for buyers, sellers, and agents. This improved user experience can lead to higher satisfaction levels, increased engagement, and repeat business.
 - They aim to provide secure payment processing using Stripe integration and rapid and precise search outcomes across millions of properties, facilitated by Elasticsearch integration to ensure a seamless user experience.
 - Provide data analytics dashboards to help users with insights into market trends, property values, pricing dynamics, and neighborhood statistics to inform their decision-making process.
-## Our Contribution
+## Our Solution
 Penaxis helped the client to build Real Estate Marketplace platform with latest technology .Net Core, Angular, Mongo DB, Elastic Search, RESTful API and various third party integrations. Some key features that are implemented by our team for platform:
 
 - **Property Listings:** Allow users to list properties for sale or rent, including detailed descriptions, high-quality images, virtual tours, and key amenities.
