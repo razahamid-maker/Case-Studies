@@ -27,4 +27,4 @@ The launch of Odommo Prokash revolutionized the online book-buying experience in
 Overall, the solution strengthened Odommo Prokash’s position as a leading online bookstore in Bangladesh, promoting a culture of reading through technology and accessibility.
 ## Images
 
-![Alt Text](https://qtecsolution.com/storage/case-studies/173867966667a225721f7909.42370498.svg)
+<img width="1152" height="896" alt="Gemini_Generated_Image_v200nkv200nkv200" src="https://github.com/user-attachments/assets/61254c1b-3b82-4c44-84e7-b4db773cb69c" />
