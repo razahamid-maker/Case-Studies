@@ -18,17 +18,6 @@ Leverage a diverse range of channels in voice, mobile, e-mail, web, social media
 The key features such as Real-time Dashboard, Real-time Call Status and Real-time Campaign Monitor, Live Interactions on Omnichannel and Social Media, Response message script for all Social Media, WebChat, e-mail and SMS, CRM Integrated IVR System, Web Callback, Internal Chat and many more were incorporated to deliver an out-of-the-box contact center experience.
 ## Impact
 Developed and managed a contact centre and unified communication solution with omnichannel features to enhance customer experiences.
-- **Discover Yourself**
-
-Explore new opportunities, transverse new career paths, and enjoy work rotations.
-
-- **Unlearn and Relearn**
-
-Give flight to your professional and personal development through continuous education and training.
-
-- **Giving Back**
-
-Contribute your part towards improving the lives of communities by building sustainable and efficient solutions.
 ## Images
 
 ![Alt Text](https://www.startelelogic.com/images/case-study/telemo/telemo-bnr.webp)
