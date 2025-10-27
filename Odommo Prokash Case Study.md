@@ -9,9 +9,9 @@
 # Odommo Prokash Case Study
 ## Overview
 ﻿﻿Odommo Prokash is an ecommerce book store based in Bangladesh. From here you can purchase your desired books from home and Odommo Prokash will deliver the books to your doorsteps. They ensure fast and secure delivery. The main goal of Odommo Prokash is to grow readers affection and love toward books. Odommo Prokash approached Penaxis with an aim to build an efficient, easy to use and mobile friendly ecommerce book store which is top level in quality. The Penaxis team accomplished an excellent job by developing this website within the planned timeline. Our team has developed this website with Django/Python technology in backend and Nuxt.js technology in frontend with REST API connected in between.
-## Challenges
+## Business Problem
 The client requested an e-commerce book selling platform(Backend and frontend, website) with excellent UI/UX design. They wanted an individual author panel in the backend where authors can keep track of their books, sales, profits etc. The platform must be mobile responsive. As their payment gateway method they wanted to implement the Bkash mobile wallet. They wished to have a blog page where blogs will be posted on different books, Authors and events . One of the requirements was to have an author page where all the authors will be highlighted based on the number of books they sold. The platform should have a login and sign up options with customer profile. The Penaxis team provided utmost dedication to build this website according to clients demand. The team provided pixel perfect design with great UI/UX design.
-## Solution
+## Our Solution
 Like any other e-commerce platform the main goal of Odommo Prokash website was to build the MVP(Minimum Viable Product). The Penaxis team has developed the MVP by generating the add to cart, making payments and placing an order options. The team implemented bkash mobile wallet as their payment gateway method. The website was developed in a mobile friendly way. Magnificent UI/UX design was used to build this website.
 ## Impact
 The launch of Odommo Prokash revolutionized the online book-buying experience in Bangladesh by combining a seamless UI/UX with robust backend automation. The platform attracted thousands of active users within months of deployment, significantly boosting online book sales and author engagement.
