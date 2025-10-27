@@ -16,13 +16,13 @@ Like any other e-commerce platform the main goal of Odommo Prokash website was t
 ## Impact
 The launch of Odommo Prokash revolutionized the online book-buying experience in Bangladesh by combining a seamless UI/UX with robust backend automation. The platform attracted thousands of active users within months of deployment, significantly boosting online book sales and author engagement.
 
-**1.** 40% increase in monthly sales through digital campaigns and responsive mobile experience
+- 40% increase in monthly sales through digital campaigns and responsive mobile experience
 
-**2.** Reduced manual order handling by 60% via automated inventory and payment workflows
+- Reduced manual order handling by 60% via automated inventory and payment workflows
 
-**3.** Enhanced author satisfaction through real-time visibility into performance, profits, and reader feedback
+- Enhanced author satisfaction through real-time visibility into performance, profits, and reader feedback
 
-**4.** Improved customer trust and engagement, driven by secure payments (Bkash integration) and transparent review systems
+- Improved customer trust and engagement, driven by secure payments (Bkash integration) and transparent review systems
 
 Overall, the solution strengthened Odommo Prokash’s position as a leading online bookstore in Bangladesh, promoting a culture of reading through technology and accessibility.
 ## Images
